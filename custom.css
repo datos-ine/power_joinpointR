@@ -1,0 +1,39 @@
+/* Cambiar color del texto */
+.reveal {
+  color: #2F2E4E;
+}
+
+/* Cambiar formato del título principal */
+.reveal h1 {
+  background: #2F2E4E;
+  color: white;
+  font-size: larger;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 1%;
+  text-align: center;
+  margin-top: 400px;
+  /* margin-bottom: 300px; */
+}
+
+.reveal h2 {
+font-size: larger;
+color: #2F2E4E;
+}
+
+/* Cambiar formato lista de autores */
+.reveal .quarto-title-author {
+  font-size: x-large;
+  color: grey;
+}
+
+/* Cambiar el color de los títulos y elementos de lista */
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal ul li,
+.reveal ol li {
+  color: #2F2E4E;
+}
+
+
