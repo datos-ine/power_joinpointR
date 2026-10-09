@@ -1,0 +1,23 @@
+project:
+  title: "JoinpointR"
+
+format: 
+  revealjs:
+    author: 
+      - name: Tamara Ricardo
+        orcid: 0000-0002-0921-2611
+    logo: images/logos_ine.svg
+    footer: Instituto Nacional de Epidemiología "Dr. Juan H. Jara"
+    title-slide-attributes: 
+      data-background-image: images/fondo_ppt_title.png
+    center-title-slide: true
+    slide-number: true
+    incremental: true
+    center: false
+    theme: simple
+    css: custom.css
+
+execute: 
+  dir: project
+
+

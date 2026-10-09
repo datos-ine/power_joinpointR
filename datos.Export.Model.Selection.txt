@@ -1,0 +1,19 @@
+"admin"	"sex"	"Model"	"# Joinpoints"	"# Observations"	"# Parameters"	"D.F."	"SSE"	"BIC"
+Buenos Aires	Female	1	0	13	2	11	            0.25	           -3.54
+Buenos Aires	Female	2	1	13	4	9	            0.19	           -3.43
+Buenos Aires	Female	3	2	13	6	7	            0.18	           -3.11
+Buenos Aires	Male	1	0	13	2	11	            0.19	           -3.82
+Buenos Aires	Male	2	1	13	4	9	            0.19	           -3.46
+Buenos Aires	Male	3	2	13	6	7	            0.16	           -3.22
+Catamarca	Female	1	0	13	2	11	            8.08	           -0.08
+Catamarca	Female	2	1	13	4	9	            4.80	           -0.21
+Catamarca	Female	3	2	13	6	7	            2.19	           -0.60
+Catamarca	Male	1	0	13	2	11	            9.53	            0.08
+Catamarca	Male	2	1	13	4	9	            7.09	            0.18
+Catamarca	Male	3	2	13	6	7	            1.72	           -0.84
+Córdoba	Female	1	0	13	2	11	            0.35	           -3.21
+Córdoba	Female	2	1	13	4	9	            0.14	           -3.74
+Córdoba	Female	3	2	13	6	7	            0.10	           -3.64
+Córdoba	Male	1	0	13	2	11	            0.56	           -2.76
+Córdoba	Male	2	1	13	4	9	            0.14	           -3.72
+Córdoba	Male	3	2	13	6	7	            0.07	           -3.98

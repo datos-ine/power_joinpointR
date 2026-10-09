@@ -1,0 +1,7 @@
+"admin"	"sex"	"Joinpoint Model"	"AAPC Index"	"Start Obs"	"End Obs"	"AAPC"	"AAPC C.I. Low"	"AAPC C.I. High"	"Statistically Significant (0=No  1=Yes)"	"Test Statistic"	"P-Value"
+Buenos Aires	Female	0	Full Range	2010	2022	-9.2744	-11.5790	-6.9505	1	NA	0.000000
+Buenos Aires	Male	0	Full Range	2010	2022	-7.3949	-9.5337	-5.1849	1	NA	0.000000
+Catamarca	Female	2	Full Range	2010	2022	7.7281	-0.1853	18.6509	0	NA	0.056389
+Catamarca	Male	2	Full Range	2010	2022	16.0379	4.5670	32.1063	1	NA	0.007199
+Córdoba	Female	1	Full Range	2010	2022	-0.8484	-4.2331	1.1200	0	NA	0.400320
+Córdoba	Male	2	Full Range	2010	2022	0.2496	-1.4226	2.1076	0	NA	0.721856

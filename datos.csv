@@ -1,0 +1,79 @@
+admin,year,sex,hiv_rate
+Buenos Aires,2010,Female,11.5
+Buenos Aires,2011,Female,10.7
+Buenos Aires,2012,Female,10
+Buenos Aires,2013,Female,9.4
+Buenos Aires,2014,Female,8.2
+Buenos Aires,2015,Female,7.2
+Buenos Aires,2016,Female,6.5
+Buenos Aires,2017,Female,4.6
+Buenos Aires,2018,Female,5.9
+Buenos Aires,2019,Female,5.7
+Buenos Aires,2020,Female,3.2
+Buenos Aires,2021,Female,4
+Buenos Aires,2022,Female,4.5
+Buenos Aires,2010,Male,19.6
+Buenos Aires,2011,Male,19.6
+Buenos Aires,2012,Male,17.9
+Buenos Aires,2013,Male,16.9
+Buenos Aires,2014,Male,15.3
+Buenos Aires,2015,Male,16
+Buenos Aires,2016,Male,14.4
+Buenos Aires,2017,Male,9.9
+Buenos Aires,2018,Male,12.6
+Buenos Aires,2019,Male,12.3
+Buenos Aires,2020,Male,7.3
+Buenos Aires,2021,Male,9.1
+Buenos Aires,2022,Male,8.9
+Catamarca,2010,Female,6.3
+Catamarca,2011,Female,8.4
+Catamarca,2012,Female,9.9
+Catamarca,2013,Female,4.6
+Catamarca,2014,Female,8.6
+Catamarca,2015,Female,15.6
+Catamarca,2016,Female,7.5
+Catamarca,2017,Female,1
+Catamarca,2018,Female,1.5
+Catamarca,2019,Female,3.4
+Catamarca,2020,Female,3.4
+Catamarca,2021,Female,12.9
+Catamarca,2022,Female,11.4
+Catamarca,2010,Male,3.7
+Catamarca,2011,Male,10.5
+Catamarca,2012,Male,13
+Catamarca,2013,Male,14.9
+Catamarca,2014,Male,13.7
+Catamarca,2015,Male,18.6
+Catamarca,2016,Male,18.5
+Catamarca,2017,Male,4
+Catamarca,2018,Male,1
+Catamarca,2019,Male,5.3
+Catamarca,2020,Male,11.5
+Catamarca,2021,Male,19.5
+Catamarca,2022,Male,21.3
+Córdoba,2010,Female,12.1
+Córdoba,2011,Female,9.7
+Córdoba,2012,Female,10.6
+Córdoba,2013,Female,11.4
+Córdoba,2014,Female,9.3
+Córdoba,2015,Female,8.7
+Córdoba,2016,Female,8.5
+Córdoba,2017,Female,8.9
+Córdoba,2018,Female,8.7
+Córdoba,2019,Female,7.7
+Córdoba,2020,Female,5.3
+Córdoba,2021,Female,9.1
+Córdoba,2022,Female,10.4
+Córdoba,2010,Male,27.1
+Córdoba,2011,Male,25.5
+Córdoba,2012,Male,26.8
+Córdoba,2013,Male,25.6
+Córdoba,2014,Male,25
+Córdoba,2015,Male,22.7
+Córdoba,2016,Male,21.1
+Córdoba,2017,Male,18.6
+Córdoba,2018,Male,17.5
+Córdoba,2019,Male,14.8
+Córdoba,2020,Male,11.3
+Córdoba,2021,Male,22.9
+Córdoba,2022,Male,25
