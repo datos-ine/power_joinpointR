@@ -367,12 +367,6 @@ gg_jpoint(mods, facets = "grid", color.by = "trend") +
 - El paquete `joinpointR` constituye una alternativa de código abierto para el análisis de tendencias temporales, contribuye a la reproducibilidad y transparencia de los resultados y resulta de utilidad para la investigación epidemiológica.
 
 
-## Referencias
-
-::: references
-:::
-
-
 ## Muchas gracias!!!
 
 ::::: columns
@@ -389,3 +383,9 @@ gg_jpoint(mods, facets = "grid", color.by = "trend") +
 :::
 :::::
 
+
+## Referencias
+
+
+::: {references}
+:::
